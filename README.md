@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **i think i am funny**
 
-  <p align="left"><img align="left" alt="wp" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" /></p>
+  <p align="center"><img align="left" alt="wp" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
