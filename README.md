@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img alt="contribution" src="https://github.com/manikanta222010/manikanta222010/blob/output/github-contribution-grid-snake.svg" />
+<img align="left" alt="wp" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
 
 https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
 
