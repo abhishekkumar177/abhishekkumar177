@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="left" alt="wp" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
-
-<h4 align="left">- 🔭 I’m currently working on [Annomitro](https://github.com/abhishekkumar177/Annomitro)
+- 🔭 I’m currently working on [Annomitro](https://github.com/abhishekkumar177/Annomitro)
 
 - 🌱 I’m currently learning **Spring, Spring Boot,**
 
@@ -21,8 +19,9 @@
 
 - 📫 How to reach me **abhishekumar1772004@gmail.com**
 
-- ⚡ Fun fact **i think i am funny**</h4>
+- ⚡ Fun fact **i think i am funny**
 
+  <img align="left" alt="wp" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
