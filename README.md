@@ -9,7 +9,8 @@
 
 <img align="left" alt="wp" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
 
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+
+
 
 - 🔭 I’m currently working on [Annomitro](https://github.com/abhishekkumar177/Annomitro)
 
