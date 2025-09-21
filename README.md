@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="[https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif]">
 </a>
 
 - 🔭 I’m currently working on my **Logic Building Skill.**
