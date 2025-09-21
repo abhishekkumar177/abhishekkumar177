@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">Aspiring Tech Enthusiast | AI & Machine Learning Explorer | Building Innovative Projects at the Intersection of Software & Hardware</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkumar177" /> </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/abhishekkumar177?label=Followers&style=social"> •   
@@ -9,6 +8,8 @@
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar177" alt="abhishekkumar177" /></a> </p>
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kishanrajput23&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/kishanrajput23)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
