@@ -25,6 +25,38 @@
 
 - ⚡ Fun fact **i think i am funny**
 
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
+</a>
+
+- 🔭 I’m currently working on my **Logic Building Skill**
+
+- 🌱 I’m currently learning **Data Structure & Algorithms**
+
+- 👯 I’m looking to collaborate on **Development Based Projects**
+
+- 📝 I write articles on **[Medium](https://kishan-rai99693.medium.com)**
+
+- 💬 Ask me about **anything you want.**
+
+- 📫 How to reach me **kishan.rai99693@gmail.com**
+
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
+
+- ⚡ Fun fact **I think I'm funny😄**
+
+<a target="_blank">
+  <img align="right" height="200" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
+</a>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [MLH Global Hack Week](https://kishan-rai99693.medium.com/mlh-global-hack-week-f26735cf8ba6?source=rss-798a94539838------2)
+- [Top 5 Games That Help You To Learn Coding](https://kishan-rai99693.medium.com/top-5-games-that-help-you-to-learn-coding-f17f2b4efc61?source=rss-798a94539838------2)
+- [50 Days of Consistency](https://kishan-rai99693.medium.com/50-days-of-consistency-d3400c208fb9?source=rss-798a94539838------2)
+- [Introduction To Artificial Intelligence](https://kishan-rai99693.medium.com/introduction-to-artificial-intelligence-ab5caa846752?source=rss-798a94539838------2)
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/abhishek-kumar-771583288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhishek-kumar-771583288" height="30" width="40" /></a>
