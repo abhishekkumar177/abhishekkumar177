@@ -71,18 +71,14 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/abhishekkumar177">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />  </a>
 </p>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <div align="center">
   
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
+
+![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
 
