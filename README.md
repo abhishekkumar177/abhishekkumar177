@@ -86,4 +86,3 @@
 
 </div>
 
-![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
