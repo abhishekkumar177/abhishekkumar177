@@ -11,9 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Annomitro](https://github.com/abhishekkumar177/Annomitro)
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
+</a>
 
-- 🌱 I’m currently learning **Spring, Spring Boot,**
+- 🔭 I’m currently working on my **Logic Building Skill.**
+
+- 🌱 I’m currently learning **Spring,Data Structure & Algorit.**
 
 - 👨‍💻 All of my projects are available at [https://abhishekkumarportfoliodev.netlify.app/](https://abhishekkumarportfoliodev.netlify.app/)
 
@@ -24,26 +28,6 @@
 - 📫 How to reach me **abhishekumar1772004@gmail.com**
 
 - ⚡ Fun fact **i think i am funny**
-
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
-</a>
-
-- 🔭 I’m currently working on my **Logic Building Skill**
-
-- 🌱 I’m currently learning **Data Structure & Algorithms**
-
-- 👯 I’m looking to collaborate on **Development Based Projects**
-
-- 📝 I write articles on **[Medium](https://kishan-rai99693.medium.com)**
-
-- 💬 Ask me about **anything you want.**
-
-- 📫 How to reach me **kishan.rai99693@gmail.com**
-
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
-
-- ⚡ Fun fact **I think I'm funny😄**
 
 <a target="_blank">
   <img align="right" height="200" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
