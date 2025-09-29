@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
-<p align="center"><a href="https://abhishekkumar177.github.io"><img width="80%" alt="Hello, I'm Abhishek. I am a Beginner and New in Industry!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://abhishekkumar177.github.io"><img width="180%" alt="Hello, I'm Abhishek. I am a Beginner and New in Industry!" src="./assets/gh-readme-header.png" /></a></p>
 
 ![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
 
