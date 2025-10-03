@@ -82,4 +82,4 @@
 
 ![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
 
-![snake gif](https://github.com/abhishekkumar/abhishekkumar/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/abhishekkumar177/abhishekkumar177/blob/output/github-snake-dark.svg)
