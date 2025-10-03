@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1> 
 
-### Workspace Specs
-
-<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="50" src="https://img.shields.io/badge/i5-12th-12450HX-ED1C24?style=for-the-badge&logo=amd&logoColor=blue"/> 
-
 ![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
 
 <h3 align="center">Aspiring Tech Enthusiast | AI & Machine Learning Explorer | Building Innovative Projects at the Intersection of Software & Hardware</h3>
