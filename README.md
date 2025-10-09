@@ -9,7 +9,7 @@
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/abhishekkumar177)
 
-[![An image of @abhishekkumar177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekkumar177)](https://holopin.io/@abhishekkumar177)
+[![An image of @abhishekkumar177's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/hacktoberfest2025/userbadge/cmghyjpdq008aji0465ino7kl)](https://www.holopin.io/hacktoberfest2025/userbadge/cmghyjpdq008aji0465ino7kl)
 
 [![Abhishek kumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar177&bg_color=0f0f0f&color=e9e2e9&line=27ce51&point=eae6e6&area=true&hide_border=true)](https://github.com/abhishekkumar177/github-readme-activity-graph)
 
