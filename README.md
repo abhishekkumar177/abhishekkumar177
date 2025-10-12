@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Iam Abhishek Kumar</h1> 
+<h1 align="center">Hi 👋, I am Abhishek Kumar</h1> 
 <h3 align="center">Aspiring Tech Enthusiast | AI & Machine Learning Explorer | Building Innovative Projects at the Intersection of Software & Hardware</h3>
 
 <p align="center">
