@@ -2,12 +2,12 @@
 <h3 align="center">Aspiring Tech Enthusiast | AI & Machine Learning Explorer | Building Innovative Projects at the Intersection of Software & Hardware</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
+  <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek Kumar" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/abhishekkumar177?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/abhishekkumar177?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/abhishekkumar177)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=dracula&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
 
 [![An image of @abhishekkumar177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekkumar177)](https://holopin.io/@abhishekkumar177)
 
