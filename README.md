@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/stars/abhishekkumar177?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=tokyonight&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=gruvbox&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
 
 [![An image of @abhishekkumar177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekkumar177)](https://holopin.io/@abhishekkumar177)
 
