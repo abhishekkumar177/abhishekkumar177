@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/github/stars/abhishekkumar177?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-[![Abhishek kumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar177&bg_color=0f0f0f&color=e9e2e9&line=27ce51&point=eae6e6&area=true&hide_border=true)](https://github.com/abhishekkumar177/github-readme-activity-graph)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/abhishekkumar177)
+
+[![Abhishek kumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar177&bg_color=0f0f0f&color=e9e2e9&line=27ce51&point=eae6e6&area=true&hide_border=true)](https://github.com/abhishekkumar177/github-readme-activity-graph)
 
 [![An image of @abhishekkumar177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekkumar177)](https://holopin.io/@abhishekkumar177)
 
