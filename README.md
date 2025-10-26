@@ -69,6 +69,8 @@
 <p align="center">
   <a href="https://github.com/abhishekkumar177">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)  
+
+  </a>
   </p>
 
 <div align="center">
