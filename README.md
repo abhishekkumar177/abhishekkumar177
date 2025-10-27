@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abhishek Kumar</h1>
 
-<h3 align="center">Aspiring Tech Enthusiast | AI & Machine Learning Explorer </h3>
+<h3 align="center">Aspiring Tech Enthusiast | AI & Machine Learning Explorer | Officially Oracle Certified! </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek Kumar" /> • 
