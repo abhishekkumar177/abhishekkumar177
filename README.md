@@ -70,6 +70,7 @@
 <p align="center">
   <a href="https://github.com/abhishekkumar177">
     <img src="https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_bust=1" alt="GitHub Stats" />
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=100NikhilBro&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </a>
 </p>
 
