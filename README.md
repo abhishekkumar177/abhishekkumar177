@@ -9,7 +9,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&cache_bust=1)](https://github.com/abhishekkumar177)
+![](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 [![Abhishek kumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar177&bg_color=0f0f0f&color=e9e2e9&line=27ce51&point=eae6e6&area=true&hide_border=true)](https://github.com/abhishekkumar177/github-readme-activity-graph)
 
