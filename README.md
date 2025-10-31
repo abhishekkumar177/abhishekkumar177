@@ -37,33 +37,25 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/www.linkedin.com/in/abhishek-kumar-771583288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhishek-kumar-771583288" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/@abhishekumar1771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abhishekumar1771" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/abhishekkumar1772004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishekkumar1772004" height="30" width="40" /></a>
-
 <a href="https://auth.geeksforgeeks.org/user/abhishekumrine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishekumrine" height="30" width="40" /></a>
 </p>
 
 <a href="https://github.com/abhishekkumar177">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://instagram.com/spydification" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spydification" height="30" width="40" />
 </a>
-
 <a href="https://www.hackerrank.com/profile/abhishekumar1771">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-
 <a href="https://www.hackerrank.com/your-username">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=black" alt="HackerRank"/>
 </a>
-
 <a href="https://codepen.io/your-username">
   <img src="https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white" alt="CodePen"/>
 </a>
-
 <a href="https://codeforces.com/profile/your-username">
   <img src="https://img.shields.io/badge/Codeforces-4051B5?logo=codeforces&logoColor=white" alt="Codeforces"/>
 </a>
