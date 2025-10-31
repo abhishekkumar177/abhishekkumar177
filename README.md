@@ -19,18 +19,6 @@
   <img align="right" height="300" width="400" alt="GIF" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 </a>
 
-- 🔭 I’m currently working on my **Logic Building Skill.**
-
-- 🌱 I’m currently learning **Spring,Data Structure & Algorit.**
-
-- 👨‍💻 All of my projects are available at [https://abhishekkumarportfoliodev.netlify.app/](https://abhishekkumarportfoliodev.netlify.app/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abhishek-kumar-771583288/](https://www.linkedin.com/in/abhishek-kumar-771583288/)
-
-- 💬 Ask me about **Java, SQL, Spring, Python, C**
-
-- 📫 How to reach me **abhishekumar1772004@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
