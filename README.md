@@ -39,12 +39,7 @@
 <a href="https://www.hackerrank.com/your-username">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=black" alt="HackerRank"/>
 </a>
-<a href="https://codepen.io/your-username">
-  <img src="https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white" alt="CodePen"/>
-</a>
-<a href="https://codeforces.com/profile/your-username">
-  <img src="https://img.shields.io/badge/Codeforces-4051B5?logo=codeforces&logoColor=white" alt="Codeforces"/>
-</a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
