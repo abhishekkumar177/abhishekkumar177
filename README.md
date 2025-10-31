@@ -1,7 +1,7 @@
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-<h1 align="center">Hi, I 'm Abhishek Kumar</h1>
+# <h1 align="center">Hi, I 'm Abhishek Kumar</h1>
 
 <h3 align="center">💡 Full Stack Java Developer | Problem Solver | Aspiring Tech Enthusiast | AI & Machine Learning Explorer | Officially Oracle Certified! </h3>
 
