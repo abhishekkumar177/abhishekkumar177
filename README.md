@@ -42,7 +42,7 @@
 <a href="https://auth.geeksforgeeks.org/user/abhishekumrine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishekumrine" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/abhishekkumar177">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://leetcode.com/your-username">
