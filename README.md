@@ -60,9 +60,9 @@
 
 <p align="center">
   <a>
-    <img height="130" width="130" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <img height="180" width="180" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=neon&hide_border=true"/>
-    <img height="130" width="130" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+    <img height="180" width="180" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
   </a>
 </p>
 
