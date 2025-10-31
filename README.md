@@ -2,7 +2,7 @@
 
 ## <h3 align="center">💡 Full Stack Java Developer | Problem Solver | Aspiring Tech Enthusiast | AI & Machine Learning Explorer | Officially Oracle Certified! </h3>
 
-# Hi, I'm <br> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=8742F5&background=1E27DC00&random=false&width=435&lines=Abhishek+kumar+;Problem+Solver+;Java+Developer+;Web+Developer+;Python+Developer+;Oracle+Certified+)
+# Hi, I'm <br> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=8742F5&background=1E27DC00&random=false&width=435&lines=Abhishek+kumar+;Problem+Solver+;Java+Developer+;Web+Developer+;Python+Developer+;Oracle+Certified+;HackerRank+Certified+;LeetCoder+;Database+Administrator+;Database+Designer+)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek Kumar" /> • 
