@@ -2,6 +2,9 @@
 
 ## <h3 align="center">💡 Full Stack Java Developer | Problem Solver | Aspiring Tech Enthusiast | AI & Machine Learning Explorer | Officially Oracle Certified! </h3>
 
+# Hi, I'm <br> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=8742F5&background=1E27DC00&random=false&width=435&lines=Rajeev+kumar+Behera;Android+Developer+;Java+Developer+;Web+Developer+;Python+Developer+)
+<img src="https://github.com/yesiamrajeev/yesiamrajeev/assets/125568812/36fae27d-aea9-4119-9bf8-de1a2b363a9e" alt="Circular Trimmed Photo" style="width: 5%; height: 8%; object-fit: cover; border-radius: 50%; overflow: hidden;">
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek Kumar" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/abhishekkumar177?label=Followers&style=social"> •   
