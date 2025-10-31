@@ -58,8 +58,15 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
-<p style="text-align: center;"><img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png" style="vertical-align: middle;"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=neon&hide_border=true" style="vertical-align: middle;"/> <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png" style="vertical-align: middle;"></p>
-  
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=neon&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+  </a>
+</p>
+
+Into single line and segment in Github readme   
   <a href="https://github.com/abhishekkumar177">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_bust=1" 
