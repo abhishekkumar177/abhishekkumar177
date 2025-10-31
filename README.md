@@ -64,11 +64,11 @@
 
 
 <p align="center">
-  <a>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=neon&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
-  </a>
+  <a>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kishanrajput23&theme=neon&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png">
+  </a>
 </p>
 
 
