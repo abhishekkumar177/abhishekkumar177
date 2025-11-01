@@ -7,8 +7,7 @@
 </p>
 
 ## 📊 GitHub Status
-- GitHub Streak: <br> ![GitHub Streak](https://streak-stats.demolab.com?user=yesiamrajeev&theme=shadow-purple&border_radius=4.8)
-- GitHub Trophies: ![trophy](https://github-profile-trophy.vercel.app/?username=yesiamrajeev&theme=onedark)
+- GitHub Streak: <br> ![GitHub Streak](https://streak-stats.demolab.com?user=abhishekkumar177&theme=shadow-purple&border_radius=4.8)
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesiamrajeev&theme=github_dark" width="100%"/><br>
