@@ -7,21 +7,16 @@
 </p>
 
 ## 📊 GitHub Status
-- GitHub Streak: <br> ![GitHub Streak](https://streak-stats.demolab.com?user=abhishekkumar177&theme=shadow-purple&border_radius=4.8)
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesiamrajeev&theme=github_dark" width="100%"/><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkumar177&theme=github_dark" width="100%"/><br>
   
   <table >
     <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yesiamrajeev&theme=github_dark&utcOffset=8" width="100%"/></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yesiamrajeev&theme=github_dark" width="100%"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekkumar177&theme=github_dark&utcOffset=8" width="100%"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekkumar177&theme=github_dark" width="100%"/></td>
     </tr>
   </table>
 </div>
-
-
-[![An image of @yesiamrajeev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yesiamrajeev)](https://holopin.io/@yesiamrajeev)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&no-frame=false&no-bg=true&margin-w=4)
