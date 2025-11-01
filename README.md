@@ -6,18 +6,6 @@
   <img src="https://img.shields.io/github/stars/abhishekkumar177?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-## 📊 GitHub Status
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkumar177&theme=github_dark" width="100%"/><br>
-  
-  <table >
-    <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekkumar177&theme=github_dark&utcOffset=8" width="100%"/></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekkumar177&theme=github_dark" width="100%"/></td>
-    </tr>
-  </table>
-</div>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 [![Abhishek kumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar177&bg_color=0f0f0f&color=e9e2e9&line=27ce51&point=eae6e6&area=true&hide_border=true)](https://github.com/abhishekkumar177/github-readme-activity-graph)
@@ -98,6 +86,17 @@
 
 <div align="center">
 
+## 📊 GitHub Status
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkumar177&theme=github_dark" width="100%"/><br>
+  
+  <table >
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekkumar177&theme=github_dark&utcOffset=8" width="100%"/></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekkumar177&theme=github_dark" width="100%"/></td>
+    </tr>
+  </table>
+</div>
   
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
