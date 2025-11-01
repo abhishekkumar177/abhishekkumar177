@@ -85,18 +85,6 @@
 </div>
 
 <div align="center">
-
-## 📊 GitHub Status
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkumar177&theme=github_dark" width="100%"/><br>
-  
-  <table >
-    <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekkumar177&theme=github_dark&utcOffset=8" width="100%"/></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekkumar177&theme=github_dark" width="100%"/></td>
-    </tr>
-  </table>
-</div>
   
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
