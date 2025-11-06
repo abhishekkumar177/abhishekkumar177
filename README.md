@@ -6,12 +6,6 @@
   <img src="https://img.shields.io/github/stars/abhishekkumar177?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-### 📈 Quick Stats:
-<div align="center">
-  
-[![LeetCode](https://img.shields.io/badge/LeetCode-200Days-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/janavi_1928/)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-400+-00C853?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&no-frame=false&no-bg=true&margin-w=2)
 [![Abhishek kumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar177&bg_color=0f0f0f&color=e9e2e9&line=27ce51&point=eae6e6&area=true&hide_border=true)](https://github.com/abhishekkumar177/github-readme-activity-graph)
