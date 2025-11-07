@@ -1,7 +1,5 @@
 # Hi, I'm <br>![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&color=00FF41&background=1E27DC00&random=false&width=435&lines=Abhishek+kumar+;Problem+Solver+;Java+Developer+;Web+Developer+;Python+Developer+;Oracle+Certified+;HackerRank+Certified+;LeetCoder+;Database+Admin+;Database+Designer+)
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek Kumar" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/abhishekkumar177?label=Followers&style=social"> •   
