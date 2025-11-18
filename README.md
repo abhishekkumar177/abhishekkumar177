@@ -89,12 +89,12 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eccentriccoder01&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkumar177&theme=github_dark"/>
 
 <table>
 <tr>
 <td width="50%">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eccentriccoder01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
 </td>
 <td width="50%">
   <img src="https://streak-stats.demolab.com/?user=abhishekkumar177&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
