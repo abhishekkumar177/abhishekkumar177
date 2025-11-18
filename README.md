@@ -8,7 +8,7 @@
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&no-frame=false&no-bg=true&margin-w=2)
-[![Abhishek kumar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar177&bg_color=0f0f0f&color=e9e2e9&line=27ce51&point=eae6e6&area=true&hide_border=true)](https://github.com/abhishekkumar177/github-readme-activity-graph)
+[![Abhishek kumar github activity graph](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&no-frame=true&margin-w=10&row=1&column=9)](https://github.com/abhishekkumar177/github-readme-activity-graph)
 
 ## Hacktoberfest Badges
 [![An image of @abhishekkumar177's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekkumar177)](https://holopin.io/@abhishekkumar177)
