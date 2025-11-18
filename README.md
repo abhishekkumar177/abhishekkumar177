@@ -96,8 +96,8 @@
 
 <table>
 <tr>
-<td width="60%">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhishekkumar177&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" />
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekkumar177&theme=github_dark"/>
 </td>
 <td width="40%">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
@@ -109,9 +109,6 @@
 <tr>
 <td width="33%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&theme=github_dark&hide_border=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Distribution"/>
-</td>
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekkumar177&theme=github_dark"/>
 </td>
 <td width="33%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekkumar1771&theme=github_dark"/>
