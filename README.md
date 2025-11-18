@@ -97,7 +97,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eccentriccoder01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
 </td>
 <td width="50%">
-  <img src="https://streak-stats.demolab.com/?user=eccentriccoder01&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhishekkumar177&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=8b5cf6&fire=f59e0b&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
@@ -111,7 +111,7 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrEccentric&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" />
 </td>
 <td width="40%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccentriccoder01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
 </td>
 </tr>
 </table>
@@ -119,23 +119,17 @@
 <table>
 <tr>
 <td width="33%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eccentriccoder01&theme=github_dark&hide_border=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Distribution"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&theme=github_dark&hide_border=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Distribution"/>
 </td>
 <td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eccentriccoder01&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekkumar177&theme=github_dark"/>
 </td>
 <td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eccentriccoder01&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekkumar1771&theme=github_dark"/>
 </td>
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eccentriccoder01&theme=tokyo-night&bg_color=0d1117&color=c9d1d9&line=6366f1&point=8b5cf6&area=true&hide_border=true" alt="Contribution Graph" />
-  
 </div>
   
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
