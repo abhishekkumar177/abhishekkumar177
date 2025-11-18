@@ -97,7 +97,7 @@
 <table>
 <tr>
 <td width="60%">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MrEccentric&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhishekkumar177&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" />
 </td>
 <td width="40%">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
