@@ -65,61 +65,26 @@
   </a>
 </p>
 
-
-   
   <a href="https://github.com/abhishekkumar177">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=abhishekkumar177&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_bust=1" 
       alt="abhishekkumar177's GitHub Stats" 
     />
   </a>
-  
   <a href="https://github.com/abhishekkumar177">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
       alt="abhishekkumar177's Top Languages"
     />
   </a>
-
 </div>
-
 <div align="center">
-
 ## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> GitHub Analytics
-
 <div align="center">
-
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkumar177&theme=github_dark"/>
-
 </div>
 <div align="center">
-
-<table>
-<tr>
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekkumar177&theme=github_dark"/>
-</td>
-<td width="40%">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkumar177&theme=github_dark&hide_border=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Distribution"/>
-</td>
-<td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekkumar1771&theme=github_dark"/>
-</td>
-</tr>
-</table>
-
 </div>
-  
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
 </div>
-
 ![footer](https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png)
