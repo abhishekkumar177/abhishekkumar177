@@ -89,7 +89,6 @@
 
 ![](https://github-contributor-stats.vercel.app/api?username=abhishekkumar177=5&theme=dark&combine_all_yearly_contributions=true)
 
-## :zap: My LeetCode Stats 📊
 <h3 align="left">Leetcode Stats:</h3>
 <table>
   <tr>
