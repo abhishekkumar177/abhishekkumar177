@@ -87,7 +87,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=abhishekkumar177=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=abhishekkumar177&limit=8&theme=dark&combine_all_yearly_contributions=true)
 
 <h3 align="left">Leetcode Stats:</h3>
 <table>
@@ -96,7 +96,6 @@
       <img src="https://leetcard.jacoblin.cool/abhishekkumar1772004?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
     </td> 
     <td>
-      ![](https://github-contributor-stats.vercel.app/api?username=abhishekkumar177&limit=8&theme=dark&combine_all_yearly_contributions=true)
     </td>
   </tr>
 </table>
