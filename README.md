@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/github/stars/abhishekkumar177?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-## GitHub Trophies
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shivin1016&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
