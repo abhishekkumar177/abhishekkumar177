@@ -85,6 +85,25 @@
   
 ## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> GitHub Analytics
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Shivin1016&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Shivin1016&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## :zap: My LeetCode Stats 📊
+<h3 align="left">Leetcode Stats:</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/shivaniprajapati11jan?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
+    </td> 
+    <td>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=shivaniprajapati11jan&theme=dark&border=border&animated=true" alt="LeetCode Badges">
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkumar177&theme=github_dark"/>
 </div
