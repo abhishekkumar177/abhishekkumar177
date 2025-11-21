@@ -85,6 +85,10 @@
   
 ## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> GitHub Analytics
 
+<div align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkumar177&theme=github_dark"/>
+</div
+
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=abhishekkumar177&limit=8&theme=dark&combine_all_yearly_contributions=true)
@@ -100,10 +104,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkumar177&theme=github_dark"/>
-</div
   
 <div align="center">
 </div>
