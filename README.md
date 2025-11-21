@@ -96,7 +96,7 @@
       <img src="https://leetcard.jacoblin.cool/abhishekkumar1772004?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
     </td> 
     <td>
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=shivaniprajapati11jan&theme=dark&border=border&animated=true" alt="LeetCode Badges">
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=abhishekkumar1772004&theme=dark&border=border&animated=true" alt="LeetCode Badges">
     </td>
   </tr>
 </table>
