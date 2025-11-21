@@ -96,7 +96,7 @@
       <img src="https://leetcard.jacoblin.cool/abhishekkumar1772004?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
     </td> 
     <td>
-![](https://github-contributor-stats.vercel.app/api?username=abhishekkumar177&limit=8&theme=dark&combine_all_yearly_contributions=true)
+      ![](https://github-contributor-stats.vercel.app/api?username=abhishekkumar177&limit=8&theme=dark&combine_all_yearly_contributions=true)
     </td>
   </tr>
 </table>
