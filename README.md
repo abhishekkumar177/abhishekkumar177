@@ -7,7 +7,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shivin1016&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar177&bg_color=0f0f0f&color=e9e2e9&line=27ce51&point=eae6e6&area=true&hide_border=true" />
