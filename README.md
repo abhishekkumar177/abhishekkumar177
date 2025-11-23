@@ -1,5 +1,5 @@
 # Hi, I am <br>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF41&background=1E27DC00&random=false&width=435&lines=Abhishek+kumar+;Problem+Solver+;Java+Developer+;Web+Developer+;Python+Developer+;Oracle+Certified+;HackerRank+Certified+;LeetCoder+;Database+Admin+;Database+Designer+)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=1E27DC00&random=false&width=435&lines=Abhishek+kumar+;Problem+Solver+;Java+Developer+;Web+Developer+;Python+Developer+;Oracle+Certified+;HackerRank+Certified+;LeetCoder+;Database+Admin+;Database+Designer+)
 
 <!-- Centered Typing Text -->
 <p align="center">
