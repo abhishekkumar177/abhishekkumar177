@@ -148,39 +148,6 @@
 
 ---
 
-# 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Java, Web Development & DBMS**
-- 🌱 Learning **Spring Boot, Cloud, DevOps & System Design**
-- 💡 Passionate about **problem-solving and backend engineering**
-- 📫 Reach me at: **abhishekkumar1771@gmail.com**
-- 📄 Know more: *Portfolio coming soon*
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=juicyfresh&margin-w=10&margin-h=10" />
-</p>
-
----
-
-# 🔥 GitHub Streaks
-
-<p align="center">
-  <img height="170" width="160" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.webp" />
-  
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkumar177&theme=highcontrast&hide_border=true&stroke=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700"
-    style="filter: drop-shadow(0 0 3px #FFD700);" 
-  />
-
-  <img height="170" width="160" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.webp" />
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
