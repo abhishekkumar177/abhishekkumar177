@@ -137,23 +137,25 @@
 
 <h4 align="center">
   
-```diff
 +-----------------------------------------------+
 @@ Programming isn't about what you know        @@
 @@ It's about what you can figure out 💡        @@
 +-----------------------------------------------+
 
-<!-- Double 3D Contribution Calendar -->
-<table width="100%">
-  <tr>
-    <td width="50%" align="left">
-      <img src="https://raw.githubusercontent.com/abhishekkumar177/abhishekkumar177/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-    </td>
-    <td width="50%" align="right">
-      <img src="https://raw.githubusercontent.com/abhishekkumar177/abhishekkumar177/main/profile-3d-contrib/profile-south-season.svg" width="100%">
-    </td>
-  </tr>
-</table>
+<!-- Profile Achievements Section -->
+<h2 align="center">🏅 GitHub Profile Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&title=-Stars,-Followers,-Issues,-PullRequest,-Commits" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=starstruck" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=developer" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=reviewer" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=polyglot" />
+  <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=bughunter" />
+</p>
 
 <!-- RGB Separator -->
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
