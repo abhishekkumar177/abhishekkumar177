@@ -1,3 +1,6 @@
+<!-- Header Image -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:00CED1&height=270&section=header&text=Abhishek%20Kumar&fontSize=70&fontAlignY=35&desc=Java%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ffffff)
+
 # Hi, I am  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=1E27DC00&random=false&width=435&lines=Abhishek+kumar+;Problem+Solver+;Java+Developer+;Web+Developer+;Python+Developer+;Oracle+Certified+;HackerRank+Certified+;LeetCoder+;Database+Admin+;Database+Designer+)
 
@@ -123,76 +126,6 @@
 </p>
 
 </div>
-
-<!-- Header Image -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:00CED1&height=270&section=header&text=Abhishek%20Kumar&fontSize=70&fontAlignY=35&desc=Java%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ffffff)
-
-<!-- Centered Typing Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=32F7C8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Python+Developer;Web+Developer;Oracle+Certified;Problem+Solver+%26+Tech+Enthusiast" />
-</p>
-
-<!-- Coding GIF -->
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-
-<!-- Profile Stats Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/stars/abhishekkumar177?label=Stars&color=yellow" />
-  <img src="https://badges.strrl.dev/repos/abhishekkumar177?color=blueviolet&style=flat" />
-  <img src="https://badges.strrl.dev/commits/all/abhishekkumar177?color=teal&style=flat" />
-  <a href="https://github.com/sponsors/abhishekkumar177">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&color=fe8e86" />
-  </a>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-kumar-771583288"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/abhishekumar1771"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-  <a href="https://leetcode.com/abhishekkumar1772004"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/abhishekumrine"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/spydification"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
-
----
-
-# 🛠️ Languages & Tools
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" />
-</p>
-
----
-
-# 📊 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekkumar177&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekkumar177&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekkumar177&theme=2077" />
-</p>
-
----
-
-
-
-
-
-
 
 <h4 align="center">
   
