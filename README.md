@@ -152,9 +152,21 @@
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
 
-# My profile
+<!--
+For future use
+<a href="https://www.instagram.com/hemant.gz/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://leetcode.com/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+-->
 
-![3D contributions](./contrib3d.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekkumar177&theme=react-dark&hide_border=true&area=true" />
+
+  ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+</p>
 
 
 <!-- RGB Separator -->
