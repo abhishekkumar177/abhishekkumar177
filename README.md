@@ -47,11 +47,21 @@
 ## 🎃 Hacktoberfest Badges | 🪶 Holopin Badges
 [![Holopin Badges](https://holopin.me/abhishekkumar177)](https://holopin.io/@abhishekkumar177)
 
-<a><img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></a>
+<!-- Double Coding GIF Section -->
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+    </td>
+    <td align="right" width="50%">
+      <img width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+    </td>
+  </tr>
+</table>
 
+<!-- RGB Separator -->
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
-<div align="center">
 
 ## Connect with me
 
@@ -62,10 +72,6 @@
   <a href="https://auth.geeksforgeeks.org/user/abhishekumrine"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/></a>
   <a href="https://instagram.com/spydification"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
 </p>
-
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
-
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
 ## Languages & Tools
 
@@ -136,3 +142,18 @@
 @@ Programming isn't about what you know        @@
 @@ It's about what you can figure out 💡        @@
 +-----------------------------------------------+
+
+<!-- Double 3D Contribution Calendar -->
+<table width="100%">
+  <tr>
+    <td width="50%" align="left">
+      <img src="https://raw.githubusercontent.com/abhishekkumar177/abhishekkumar177/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+    </td>
+    <td width="50%" align="right">
+      <img src="https://raw.githubusercontent.com/abhishekkumar177/abhishekkumar177/main/profile-3d-contrib/profile-south-season.svg" width="100%">
+    </td>
+  </tr>
+</table>
+
+<!-- RGB Separator -->
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
