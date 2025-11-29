@@ -16,6 +16,16 @@
   </a>
 </p>
 
+# ⚡ More About Me
+
+<div align="center" style="font-size: 16px; line-height: 1.8;">
+🔭 <b>Currently working on:</b> Java, MySQL & Spring  
+🌱 <b>Learning:</b> Backend Engineering & Cloud  
+👯 <b>Collaborating on:</b> Full Stack & Java Projects  
+💬 <b>Ask me about:</b> Java, DBMS, OOP, SQL, DSA  
+⚡ <b>Fun fact:</b> I break code just to fix it cleaner 😄  
+</div>
+
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
 ## 🏆 GitHub Trophies
@@ -31,7 +41,7 @@
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
-## 🎃 Hacktoberfest Badges
+## 🎃 Hacktoberfest Badges | 🪶 Holopin Badges
 [![Holopin Badges](https://holopin.me/abhishekkumar177)](https://holopin.io/@abhishekkumar177)
 
 <a><img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></a>
@@ -211,33 +221,11 @@
 
 ---
 
-# ⚡ More About Me
 
-<div align="center" style="font-size: 16px; line-height: 1.8;">
-🔭 <b>Currently working on:</b> Java, MySQL & Spring  
-🌱 <b>Learning:</b> Backend Engineering & Cloud  
-👯 <b>Collaborating on:</b> Full Stack & Java Projects  
-💬 <b>Ask me about:</b> Java, DBMS, OOP, SQL, DSA  
-⚡ <b>Fun fact:</b> I break code just to fix it cleaner 😄  
-</div>
 
-<br>
 
-<div align="center"><img width="100%" src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif"></div>
 
-# 🪶 Holopin Badges
 
-[![Holopin Badge](https://holopin.me/abhishekkumar177)](https://holopin.io/@abhishekkumar177)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekkumar177/abhishekkumar177/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 <h4 align="center">
   
