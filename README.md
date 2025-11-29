@@ -136,11 +136,6 @@
 </div>
 
 <h4 align="center">
-  
-+-----------------------------------------------+
-@@ Programming isn't about what you know        @@
-@@ It's about what you can figure out 💡        @@
-+-----------------------------------------------+
 
 <!-- Profile Achievements Section -->
 <h2 align="center">🏅 GitHub Profile Achievements</h2>
