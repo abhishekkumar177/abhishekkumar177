@@ -146,10 +146,6 @@
 <h2 align="center">🏅 GitHub Profile Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&title=-Stars,-Followers,-Issues,-PullRequest,-Commits" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=starstruck" />
   <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=developer" />
   <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=reviewer" />
