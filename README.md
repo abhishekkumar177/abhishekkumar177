@@ -1,13 +1,9 @@
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
-
 # Hi, I am  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=1E27DC00&random=false&width=435&lines=Abhishek+kumar+;Problem+Solver+;Java+Developer+;Web+Developer+;Python+Developer+;Oracle+Certified+;HackerRank+Certified+;LeetCoder+;Database+Admin+;Database+Designer+)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7C52B&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!"/>
 </p>
-
-<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekkumar177&label=Profile%20views&color=0e75b6&style=flat" /> •
