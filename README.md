@@ -118,10 +118,8 @@
 
 ### 🔥 Top Repositories by PR Contribution
 
-![PR Ranking](https://github-contributor-stats-api.vercel.app/api?username=abhishekkumar176&layout=compact&theme=midnight-purple)
+![PRs](https://img.shields.io/github/issues-pr-closed/abhishekkumar176/Pixel_Phantom?color=brightgreen&label=PRs%20Closed)
 
-### 🛠 PR Breakdown
-![Pixel Phantom PRs](https://badges.pufler.dev/pulls/abhishekkumar176/Pixel_Phantom)
 
 
 ## 🧩 LeetCode Stats
