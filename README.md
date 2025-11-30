@@ -116,8 +116,13 @@
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
-## 🔝 Top Contributed Repo
-![PR Ranking](https://github-contributor-stats-api.vercel.app/api?username=abhishekkumar176&layout=compact&theme=dark)
+### 🔥 Top Repositories by PR Contribution
+
+![PR Ranking](https://github-contributor-stats-api.vercel.app/api?username=abhishekkumar176&layout=compact&theme=midnight-purple)
+
+### 🛠 PR Breakdown
+![Pixel Phantom PRs](https://badges.pufler.dev/pulls/abhishekkumar176/Pixel_Phantom)
+
 
 ## 🧩 LeetCode Stats
 
