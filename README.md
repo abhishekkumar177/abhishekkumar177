@@ -116,14 +116,6 @@
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
-
-### 🔥 PR Leaderboard (Auto-updates)
-
-![PR Leaderboard](https://github.com/abhishekkumar176/abhishekkumar176/blob/main/github-metrics.svg)
-
-
-
-
 ## 🧩 LeetCode Stats
 
 <table>
