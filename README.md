@@ -33,7 +33,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=neon&no-frame=false&no-bg=false&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekkumar177&theme=discord&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
