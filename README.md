@@ -128,25 +128,11 @@
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
 
 ### ⭐ Show some love by starring my repositories!
-
 <p align="center">
   <img src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/footer.png"/>
 </p>
-
 </div>
-
 <h4 align="center">
-
-<!-- Profile Achievements Section -->
-<h2 align="center">🏅 GitHub Profile Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=starstruck" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=developer" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=reviewer" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=polyglot" />
-  <img src="https://github-profile-achievements.vercel.app/api/badge?username=abhishekkumar177&achievement=bughunter" />
-</p>
 
 <!-- RGB Separator -->
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
