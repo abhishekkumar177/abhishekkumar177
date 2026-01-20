@@ -33,7 +33,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=abhishekkumar177&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-trophies.vercel.app/?username=abhishekkumar177&theme=discord&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
 
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/730d340c8008758ac291ebc555f818f851feda0f/Assets/RGB%20Line%20Thick.gif" width="100%" />
