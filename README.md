@@ -34,12 +34,7 @@
 ## 🏆 GitHub Trophies
 <div align="center">
   <img 
-    src="https://github-trophies.vercel.app/?username=abhishekkumar177
-    &theme=discord
-    &no-frame=true
-    &margin-w=8
-    &column=6"
-    alt="GitHub Trophies" />
+    src="https://github-trophies.vercel.app/?username=abhishekkumar177&theme=discord&no-frame=true&margin-w=8&column=6"alt="GitHub Trophies" />
 </div>
 
 
