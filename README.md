@@ -1,7 +1,7 @@
 <!-- Header Image -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:00CED1&height=270&section=header&text=Abhishek%20Kumar&fontSize=70&fontAlignY=35&desc=Java%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ffffff)
 
-# Hi, I'M
+# Hi, I AM
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FF41&background=1E27DC00&random=false&width=435&lines=Abhishek+kumar+;Problem+Solver+;Java+Developer+;Web+Developer+;Python+Developer+;Oracle+Certified+;HackerRank+Certified+;LeetCoder+;Database+Admin+;Database+Designer+)
 
 <p align="center">
